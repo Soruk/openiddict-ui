@@ -42,6 +42,7 @@
     <ProjectReference Include="..\..\src\identity\OpenIddict.UI.Identity.Core\tomware.OpenIddict.UI.Identity.Core.csproj" />
     <ProjectReference Include="..\..\src\identity\OpenIddict.UI.Identity.Infrastructure\tomware.OpenIddict.UI.Identity.Infrastructure.csproj" />
     <ProjectReference Include="..\..\src\identity\OpenIddict.UI.Identity.Api\tomware.OpenIddict.UI.Identity.Api.csproj" />
+    <ProjectReference Include="..\..\src\identity\OpenIddict.UI.Identity.Pages\OpenIddict.UI.Identity.Pages.csproj" />
   </ItemGroup>
 
 </Project>

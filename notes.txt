@@ -1,5 +1,10 @@
 TODO:
 
+- Razor Pages Class Lib
+  - https://docs.microsoft.com/en-us/aspnet/core/razor-pages/ui-class?view=aspnetcore-5.0&tabs=netcore-cli
+  - https://www.stevejgordon.co.uk/extending-the-asp-net-core-identity-signinmanager
+
+
 - organize APIs a bit more by feature
   - i.e. identity -> AccountController
     - AccountController
